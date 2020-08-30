@@ -33,6 +33,6 @@ def adding
                   "gun powder" => 4
                  }
 
-shipping_manifest ["pearl necklace"] = 1 
-shipping_manifest
+shipping_manifest ["muskets"] = 1 
+shipping_manifest ["gun powder"] = 2 
 end
