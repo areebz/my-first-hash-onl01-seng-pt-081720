@@ -34,5 +34,5 @@ def adding
                  }
 
 shipping_manifest ["muskets"] = 1 
-shipping_manifest ["gun powder"] = 2 
+shipping_manifest ["gun powder"] = 0 
 end
